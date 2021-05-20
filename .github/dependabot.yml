@@ -5,9 +5,9 @@ updates:
     schedule:
       interval: "weekly"
     assignees:
-      - "KokosnussDEV"
+      - "kdev"
     commit-message:
         prefix: "⬆️"
         include: "scope"
     reviewers:
-      - "KokosnussDEV"
+      - "kdev"
