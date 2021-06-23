@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TeamCoffeeCodes/prime-factorisation.git"
+        "url": "git+https://github.com/LEDBrain/prime-factorisation.git"
     },
-    "author": "TeamCoffeeCodes",
+    "author": "LEDBrain",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/TeamCoffeeCodes/prime-factorisation/issues"
+        "url": "https://github.com/LEDBrain/prime-factorisation/issues"
     },
-    "homepage": "https://github.com/TeamCoffeeCodes/prime-factorisation#readme",
+    "homepage": "https://github.com/LEDBrain/prime-factorisation#readme",
     "devDependencies": {
         "eslint": "^7.29.0",
         "eslint-plugin-prettier": "^3.4.0",
